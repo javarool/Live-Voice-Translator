@@ -25,7 +25,7 @@ The project supports translating from any language to English, with the option t
 - **A CUDA-compatible GPU** with 4 to 8 GB of memory
 - **Dependencies:** 
 https://github.com/LibreTranslate/LibreTranslate
-
+More Voices https://github.com/rhasspy/piper/blob/master/VOICES.md
 Additionally, the project requires access to the LibreTranslate service for translation. You can either:
 
 Deploy LibreTranslate locally: Follow the instructions on the LibreTranslate GitHub page to set up the service.

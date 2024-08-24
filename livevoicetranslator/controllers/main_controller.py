@@ -39,6 +39,7 @@ class MainController:
                 #'ru': 'ru_RU-ruslan-medium.onnx',
                 'ru': 'ru_RU-irina-medium.onnx',
                 'en': 'en_GB-jenny_dioco-medium.onnx',
+                # 'en': 'glados.onnx',
                 'pl': 'pl_PL-gosia-medium.onnx'
             }
         )
